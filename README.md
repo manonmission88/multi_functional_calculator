@@ -13,4 +13,8 @@ use in school/college life .
  
  special thanks to CODE WITH HARRY youtube channel where I learned a lot about Python . 
  I would recommend to follow him .
+
+sample : 
  
+<img width="653" alt="Screen Shot 2022-05-02 at 8 16 25 PM" src="https://user-images.githubusercontent.com/98479005/167309255-9875f010-0e37-46e8-b1d9-e70febaf4fd5.png">
+
